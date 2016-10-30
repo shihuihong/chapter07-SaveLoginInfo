@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SavelonginInfo1</string>
+    <string name="action_settings">Settings</string>
+    <string name="psd">psd</string>
+    <string name="rememberPsd">rememberPsd</string>
+    <string name="auto_Login">auto_Login</string>
+    <string name="login">login</string>
+    <string name="name">name</string>
+</resources>
